@@ -1,6 +1,7 @@
 ### Opa!👋
 <div align="center">
   <a href="https://rlucio.com">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=rlucio01&rank_icon=percentile&include_all_commits=true&theme=dracula"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rlucio01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
